@@ -1,2 +1,1 @@
-# GitPagesProject
-Github Pages Project
+Justin's User Page
